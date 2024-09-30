@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://taxinceub.github.io/sitemap.html.gz
+Sitemap: https://taxinceub.github.io/app/sitemap.html.gz
+Sitemap: https://taxinceub.github.io/assets/sitemap.html.gz
+Sitemap: https://taxinceub.github.io/css/sitemap.html.gz
+Sitemap: https://taxinceub.github.io/data/sitemap.html.gz
+Sitemap: https://taxinceub.github.io/includes/sitemap.html.gz
+Sitemap: https://taxinceub.github.io/item/sitemap.html.gz
+Sitemap: https://taxinceub.github.io/src/sitemap.html.gz
